@@ -1,0 +1,30 @@
+{
+    "id": 67544840,
+    "name": "how",
+    "author": "dude",
+    "creators": ["some dude..."],
+    "verifier": "SomedudeV3",
+    "verification": "https://youtu.be/Qs4JMEDjm0U?is=1rsmCeti6X7KAube",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+        {
+            "user": "Zod",
+            "link": "idk i cant find the vid",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/tLPeo1DWBd4?si=DspJAGTjXxPQf6xn",
+            "percent": 100,
+            "hz": 360
+        },
+                {
+            "user": "fesh",
+            "link": "https://drive.google.com/file/d/1z5fBCTSM2XXJtEAF1E-yeV2hUrGXA_1O/view?usp=drivesdk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
